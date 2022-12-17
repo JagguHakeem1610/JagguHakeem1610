@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JagguHakeem1610](https://github.com/JagguHakeem1610)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/JagguHakeem1610)
 
-- 📫 How to reach me **Hakeem938121@gmail.com**
+- 📫 How to reach me [Email](hakeem938121@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bzgWj-9EssR30ISUSS5NODoD9CErT4SI/view?usp=sharing](https://drive.google.com/file/d/1bzgWj-9EssR30ISUSS5NODoD9CErT4SI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bzgWj-9EssR30ISUSS5NODoD9CErT4SI/view?usp=sharing)
 
 - ⚡ Fun fact **I Thing I am Funny😂**
 
